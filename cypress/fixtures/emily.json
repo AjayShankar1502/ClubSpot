@@ -1,0 +1,26 @@
+{
+  "fullName": "Emily Rose Thompson",
+  "shortName": "Emily Thompson",
+  "initialDetails": {
+    "license": "D1234567XYZ",
+    "licenseExpiryMonth": 12,
+    "licenseExpiryDay": 30,
+    "nationality": "Indian",
+    "maritalStatus": "Single",
+    "dobYear": 1992,
+    "dobMonth": 12,
+    "dobDay": 21,
+    "gender": "Female"
+  },
+  "updatedDetails": {
+    "license": "UPDATED987654321",
+    "licenseExpiryMonth": 11,
+    "licenseExpiryDay": 29,
+    "nationality": "American",
+    "maritalStatus": "Married",
+    "dobYear": 1996,
+    "dobMonth": 10,
+    "dobDay": 12,
+    "gender": "Male"
+  }
+}

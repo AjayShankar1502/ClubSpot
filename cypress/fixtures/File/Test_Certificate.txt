@@ -1,0 +1,15 @@
+This is to certify that the individual named below has been employed with our organization.
+
+Name: John Doe  
+Position: Software QA Engineer  
+Department: Quality Assurance  
+Employee ID: EMP123456  
+Date of Joining: January 5, 2020  
+
+This document is issued for employment verification purposes only.
+
+Issued Date: May 20, 2025
+
+Authorized Signatory:  
+_____________________  
+HR Manager
